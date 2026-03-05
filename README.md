@@ -4,7 +4,7 @@ Unlike software solutions, this device works as a fully hardware-based mouse emu
 
 The device includes a built-in Wi-Fi web interface, allowing you to easily configure its behavior directly from your phone, tablet, or PC browser. Through the web UI you can adjust movement intervals, enable or disable activity, and customize the operation to suit your needs.
 
-<img width="1024" height="1536" alt="Mouse configuration panel with cartoon character" src="https://github.com/user-attachments/assets/d42bf129-0dae-4d65-8d1d-a58d40285db1" />
+<img width="1024" height="1536" alt="Mouse Keep-Alive interface with cartoon mouse" src="https://github.com/user-attachments/assets/d3c89112-36be-4436-ba22-4774859cb7b9" />
 
 
 Installation:
