@@ -4,6 +4,9 @@ Unlike software solutions, this device works as a fully hardware-based mouse emu
 
 The device includes a built-in Wi-Fi web interface, allowing you to easily configure its behavior directly from your phone, tablet, or PC browser. Through the web UI you can adjust movement intervals, enable or disable activity, and customize the operation to suit your needs.
 
+
+<img width="1024" height="1536" alt="Software interface with active settings" src="https://github.com/user-attachments/assets/5c598682-9c4e-41e6-a92a-cbb6b2a4efa1" />
+
 Installation:
 You can flash the firmware using the following online tool: https://thelastoutpostworkshop.github.io/ESPConnect/
 
