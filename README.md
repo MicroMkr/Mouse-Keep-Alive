@@ -1,6 +1,15 @@
+ESP32 Mouse Keep-Alive (Web Configurable)
+
+The ESP32 Mouse Keep-Alive is a small hardware device that prevents your computer from going idle by emulating real mouse activity. Built on the ESP32-S3, it appears to the computer as a standard USB mouse and periodically generates tiny cursor movements to keep the system active.
+
+Unlike software solutions, this device works as a fully hardware-based mouse emulator, so it does not require installing any software on the computer.
+
+The device includes a built-in Wi-Fi web interface, allowing you to easily configure its behavior directly from your phone, tablet, or PC browser. Through the web UI you can adjust movement intervals, enable or disable activity, and customize the operation to suit your needs.
+
+Installation:
 You can flash the firmware using the following online tool: https://thelastoutpostworkshop.github.io/ESPConnect/
 
-ESPConnect is a zero‑installation web application that runs entirely in a modern Chromium‑based browser (Chrome, Edge, Brave, etc.) and lets you explore, manage, back up, and flash firmware on ESP32/ESP8266 boards straight from the browser — no Python, no command‑line, no desktop tools required.
+ESPConnect is a zero‑installation web application that runs entirely in a modern Chromium‑based browser (Chrome, Edge, Brave, etc.) and lets you explore, manage, back up, and flash firmware on ESP32 boards straight from the browser — no Python, no command‑line, no desktop tools required.
 
 🔌 What You’ll Need
 
