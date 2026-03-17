@@ -7,13 +7,13 @@ The device includes a built-in Wi-Fi web interface, allowing you to easily confi
 <img width="1024" height="1536" alt="Mouse Keep-Alive interface with cartoon mouse" src="https://github.com/user-attachments/assets/d3c89112-36be-4436-ba22-4774859cb7b9" />
 
 
-Installation:
+**Installation:**
 
 Flashing ESP Firmware Using the Espressif Web Flash Tool
 
 This guide explains how to flash firmware to an ESP device using Espressif’s browser-based flashing tool.
 
-Requirements
+**Requirements**
 
 A computer with Google Chrome or Microsoft Edge
 
