@@ -1,3 +1,5 @@
+<img width="577" height="866" alt="ChatGPT 2" src="https://github.com/user-attachments/assets/830bf35c-5a63-4ded-a91b-755358497245" />
+
 The ESP32S3 Mouse Keep-Alive is a small hardware device that prevents your computer from going idle by emulating real mouse activity. Built on the ESP32-S3, it appears to the computer as a standard USB mouse and periodically generates tiny cursor movements to keep the system active.
 
 Unlike software solutions, this device works as a fully hardware-based mouse emulator, so it does not require installing any software on the computer.
