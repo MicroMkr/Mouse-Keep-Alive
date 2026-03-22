@@ -23,7 +23,7 @@ A USB cable connected to your ESP board
 
 The compiled firmware file (.bin)
 
-1. Open the Web Flash Tool
+**1. Open the Web Flash Tool**
 
 Open the following page in your browser:
 
@@ -31,7 +31,7 @@ https://espressif.github.io/esptool-js/
 
 This tool runs directly in the browser and does not require installing any software.
 
-2. Connect the ESP Device
+**2. Connect the ESP Device**
 
 Connect your ESP board to the computer using a USB cable.
 
@@ -43,7 +43,7 @@ Select the COM port corresponding to your ESP device (USB JTAG/serial debug unit
 
 Click Connect.
 
-3. Set the Flash Address and Firmware File
+**3. Set the Flash Address and Firmware File**
 
 In the Flash Address field, enter:
 
@@ -59,7 +59,7 @@ Address	File
 0x0	firmware.bin
 
 
-4. Optional Settings (Recommended)
+**4. Optional Settings (Recommended)**
 
 Before flashing, enable:
 
@@ -75,7 +75,7 @@ Flash Size: Keep
 
 Baud Rate: 460800 or 921600
 
-5. Enter Bootloader Mode (Only If Required)
+**5. Enter Bootloader Mode (Only If Required)**
 
 Many ESP boards enter flashing mode automatically.
 
@@ -89,7 +89,7 @@ Release the BOOT button.
 
 The board is now ready for flashing.
 
-6. Flash the Firmware
+**6. Flash the Firmware**
 
 Click Program.
 
@@ -104,7 +104,7 @@ Hard resetting via RTS pin...
 
 Wait until the process completes.
 
-7. Finish
+**7. Finish**
 
 After flashing is finished:
 
