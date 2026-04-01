@@ -14,9 +14,13 @@ The device includes a built-in Wi-Fi web interface, allowing you to easily confi
 Flashing ESP Firmware Using the MicroMaker dedicated Web Flash Tool:
 
 https://micromkr.github.io/firmware/MicroMaker-Flasher.html
+
 Connect your ESP32-S3
-choose the Mouse Keep-Alive firmware
+
+Choose the Mouse Keep-Alive firmware
+
 Press Connect device - choose your device
+
 Press flash firmware
 
 **7. Finish**
