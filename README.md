@@ -26,8 +26,6 @@ Press Connect device - choose your device
 
 Press flash firmware
 
-<img width="1408" height="1026" alt="flashing" src="https://github.com/user-attachments/assets/12e16a93-b55d-4ebb-ac96-bba934d6e59c" />
-
 
 **7. Finish**
 
