@@ -15,6 +15,9 @@ Flashing ESP Firmware Using the MicroMaker dedicated Web Flash Tool:
 
 https://micromkr.github.io/firmware/MicroMaker-Flasher.html
 
+<img width="637" height="910" alt="image" src="https://github.com/user-attachments/assets/c5d8f004-be4f-414f-b730-fb24be96a972" />
+
+
 Connect your ESP32-S3
 
 Choose the Mouse Keep-Alive firmware
